@@ -1,4 +1,6 @@
 {
+  "name": "aitictactoe",
+  "version": "0.0.0",
   "dependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
@@ -7,9 +9,7 @@
   "devDependencies": {
     "react-scripts": "^5.0.1"
   },
-  "name": "2d4kpc",
-  "description": null,
-  "version": "0.0.0",
+ 
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
