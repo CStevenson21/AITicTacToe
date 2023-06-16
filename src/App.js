@@ -8,6 +8,10 @@ function Square({value, onSquareClick}) {
   );
 }
 
+function Row() {
+  //TODO
+}
+
 function Board({ xIsNext, squares, onPlay }) {
   function handleClick(i){
     if (squares[i] || calculateWinner(squares)) {
